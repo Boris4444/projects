@@ -69,6 +69,7 @@ public class Listenvergleich {
 				}
 			}
 		);
+		erg.put("inBothLists", ergebnisliste);
 		return erg;
 	}
 	
