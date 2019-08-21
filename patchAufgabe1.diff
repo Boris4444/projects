@@ -1,0 +1,22 @@
+diff --cc List1.txt
+index 0549d4a,0549d4a,0549d4a,0549d4a..0000000
+deleted file mode 100644,100644,100644,100644
+--- a/List1.txt
++++ /dev/null
+@@@@@ -1,5 -1,5 -1,5 -1,5 +1,0 @@@@@
+----Jason Statham
+----Jason Derulo
+----Max Mustermann
+----Miriam Musterfrau
+----Jack Tester
+diff --cc List2.txt
+index 12884a8,12884a8,12884a8,12884a8..0000000
+deleted file mode 100644,100644,100644,100644
+--- a/List2.txt
++++ /dev/null
+@@@@@ -1,5 -1,5 -1,5 -1,5 +1,0 @@@@@
+----Miriam Musterfrau
+----Jason Momoa
+----Jason Statham
+----Jim Panse
+----Elke Pohn
